@@ -27,4 +27,5 @@ It has two major modules:
 ## How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/AI-Resume-Analyzer.git
+   git clone https://github.com/NehaYadav1505/AI-Resume-Analyzer
+   
